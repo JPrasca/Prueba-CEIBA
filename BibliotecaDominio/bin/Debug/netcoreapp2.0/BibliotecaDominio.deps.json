@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "BibliotecaDominio/1.0.0": {
+        "runtime": {
+          "BibliotecaDominio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BibliotecaDominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

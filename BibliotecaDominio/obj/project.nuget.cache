@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ndI4NGv6/+N6q4he73JoVnD8LS4K89Q5gDr9xsCQlCc8Pe7F4ThdgnFWg7fLUJoyXsp8APi9vlZ4CTtq1nKhBQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jesus David Prasca\\Desktop\\Biblioteca.net[2192]\\Biblioteca.net\\BibliotecaDominio\\BibliotecaDominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jesus David Prasca\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\Jesus David Prasca\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\Jesus David Prasca\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\Jesus David Prasca\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Users\\Jesus David Prasca\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\Jesus David Prasca\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

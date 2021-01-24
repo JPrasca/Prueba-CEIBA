@@ -1,0 +1,12 @@
+C:\Users\Jesus David Prasca\Desktop\Biblioteca.net[2192]\Biblioteca.net\BibliotecaRepositorio\bin\Debug\netcoreapp2.0\BibliotecaRepositorio.deps.json
+C:\Users\Jesus David Prasca\Desktop\Biblioteca.net[2192]\Biblioteca.net\BibliotecaRepositorio\bin\Debug\netcoreapp2.0\BibliotecaRepositorio.dll
+C:\Users\Jesus David Prasca\Desktop\Biblioteca.net[2192]\Biblioteca.net\BibliotecaRepositorio\bin\Debug\netcoreapp2.0\BibliotecaRepositorio.pdb
+C:\Users\Jesus David Prasca\Desktop\Biblioteca.net[2192]\Biblioteca.net\BibliotecaRepositorio\bin\Debug\netcoreapp2.0\BibliotecaDominio.dll
+C:\Users\Jesus David Prasca\Desktop\Biblioteca.net[2192]\Biblioteca.net\BibliotecaRepositorio\bin\Debug\netcoreapp2.0\BibliotecaDominio.pdb
+C:\Users\Jesus David Prasca\Desktop\Biblioteca.net[2192]\Biblioteca.net\BibliotecaRepositorio\obj\Debug\netcoreapp2.0\BibliotecaRepositorio.csprojAssemblyReference.cache
+C:\Users\Jesus David Prasca\Desktop\Biblioteca.net[2192]\Biblioteca.net\BibliotecaRepositorio\obj\Debug\netcoreapp2.0\BibliotecaRepositorio.AssemblyInfoInputs.cache
+C:\Users\Jesus David Prasca\Desktop\Biblioteca.net[2192]\Biblioteca.net\BibliotecaRepositorio\obj\Debug\netcoreapp2.0\BibliotecaRepositorio.AssemblyInfo.cs
+C:\Users\Jesus David Prasca\Desktop\Biblioteca.net[2192]\Biblioteca.net\BibliotecaRepositorio\obj\Debug\netcoreapp2.0\BibliotecaRepositorio.csproj.CoreCompileInputs.cache
+C:\Users\Jesus David Prasca\Desktop\Biblioteca.net[2192]\Biblioteca.net\BibliotecaRepositorio\obj\Debug\netcoreapp2.0\BibliotecaRepositorio.csproj.CopyComplete
+C:\Users\Jesus David Prasca\Desktop\Biblioteca.net[2192]\Biblioteca.net\BibliotecaRepositorio\obj\Debug\netcoreapp2.0\BibliotecaRepositorio.dll
+C:\Users\Jesus David Prasca\Desktop\Biblioteca.net[2192]\Biblioteca.net\BibliotecaRepositorio\obj\Debug\netcoreapp2.0\BibliotecaRepositorio.pdb

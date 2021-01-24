@@ -1,0 +1,9 @@
+C:\Users\Jesus David Prasca\Desktop\Biblioteca.net[2192]\Biblioteca.net\BibliotecaDominio\bin\Debug\netcoreapp2.0\BibliotecaDominio.deps.json
+C:\Users\Jesus David Prasca\Desktop\Biblioteca.net[2192]\Biblioteca.net\BibliotecaDominio\bin\Debug\netcoreapp2.0\BibliotecaDominio.dll
+C:\Users\Jesus David Prasca\Desktop\Biblioteca.net[2192]\Biblioteca.net\BibliotecaDominio\bin\Debug\netcoreapp2.0\BibliotecaDominio.pdb
+C:\Users\Jesus David Prasca\Desktop\Biblioteca.net[2192]\Biblioteca.net\BibliotecaDominio\obj\Debug\netcoreapp2.0\BibliotecaDominio.csprojAssemblyReference.cache
+C:\Users\Jesus David Prasca\Desktop\Biblioteca.net[2192]\Biblioteca.net\BibliotecaDominio\obj\Debug\netcoreapp2.0\BibliotecaDominio.AssemblyInfoInputs.cache
+C:\Users\Jesus David Prasca\Desktop\Biblioteca.net[2192]\Biblioteca.net\BibliotecaDominio\obj\Debug\netcoreapp2.0\BibliotecaDominio.AssemblyInfo.cs
+C:\Users\Jesus David Prasca\Desktop\Biblioteca.net[2192]\Biblioteca.net\BibliotecaDominio\obj\Debug\netcoreapp2.0\BibliotecaDominio.csproj.CoreCompileInputs.cache
+C:\Users\Jesus David Prasca\Desktop\Biblioteca.net[2192]\Biblioteca.net\BibliotecaDominio\obj\Debug\netcoreapp2.0\BibliotecaDominio.dll
+C:\Users\Jesus David Prasca\Desktop\Biblioteca.net[2192]\Biblioteca.net\BibliotecaDominio\obj\Debug\netcoreapp2.0\BibliotecaDominio.pdb
